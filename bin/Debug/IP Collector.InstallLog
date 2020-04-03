@@ -1,0 +1,86 @@
+﻿Installing assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Installing assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Installing service IP Collector...
+Service IP Collector has been successfully installed.
+Creating EventLog source IP Collector in log Application...
+Committing assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Uninstalling assembly 'C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.InstallLog
+   assemblypath = C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+Removing EventLog source IP Collector.
+Service IP Collector is being removed from the system...
+Service IP Collector was successfully removed from the system.

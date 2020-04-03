@@ -1,0 +1,7 @@
+C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe.config
+C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.exe
+C:\Users\mesur\source\repos\IP Collector\bin\Debug\IP Collector.pdb
+C:\Users\mesur\source\repos\IP Collector\obj\Debug\IP_Collector.ProjectInstaller.resources
+C:\Users\mesur\source\repos\IP Collector\obj\Debug\IP Collector.csproj.GenerateResource.cache
+C:\Users\mesur\source\repos\IP Collector\obj\Debug\IP Collector.exe
+C:\Users\mesur\source\repos\IP Collector\obj\Debug\IP Collector.pdb
